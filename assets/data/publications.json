@@ -160,7 +160,7 @@
         "venue": "A chat application was created using Python socket programming, a client-side GUI, and a server-side database to store the information about all its clients.",
 
         "links": [
-          { "label": "Repo", "href": "" }]
+          { "label": "Repo", "href": "https://github.com/MUsmankhanzada/Client-Server-Chat-Application-Python" }]
       }
     }
   ]
