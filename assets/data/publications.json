@@ -72,30 +72,19 @@
       "topic": "",
       "media": {
         "type": "image",
-        "src": "assets/images/research/rag_wireless.png"
+        "src": "assets/images/research/gmms.png"
       },
       "details": {
-        "title": "Retrieval Augmented Generation with Multi-Modal LLM Framework for Wireless Environments",
+        "title": "Speaker Recognition Using GMMs",
         "authors": [
-          { "name": "Muhammad Ahmed Mohsin",    "href": "https://ahmd-mohsin.github.io/", "strong": false },
-          { "name": "Ahsan Bilal",     "href": "", "strong": true  },
-          { "name": "Sagnik Bhattacharya", "href": "https://scholar.google.com/citations?user=xNb5T5IAAAAJ&hl=en", "strong": false },
-          { "name": "John M. Cioff",   "href": "https://cioffi-group.stanford.edu/", "strong": false }
+          { "name": "Ahsan Bilal",     "href": "", "strong": true  }
         ],
-        "venue": "ICC 2025 Workshop",
+        "venue": "Build a speaker recognition system by extracting MFCC features from audio files and modeling speaker characteristics using Gaussian Mixture Models (GMM). This project focuses on speaker identification, where the system assigns a test utterance to one of several known speakers.",
         "links": [
-          { "label": "arXiv", "href": "https://arxiv.org/pdf/2503.07670" },
-          { "label": "website", "href": "https://cioffi-group-stanford.github.io/Websites/RAG_wireless.html" }
-          ],
-          "research_highlights": [
-            "Accepted 🎉 Best Paper Award 🎉"
-          ],
-          "collaborater": [
-            { "outlet": "Intel Corporation", "href": "https://www.intel.com/content/www/us/en/homepage.html" },
-            { "outlet": "Samsung Semiconductors", "href": "https://semiconductor.samsung.com/us/" },
-            { "outlet": "Ericsson", "href": "https://www.ericsson.com/en" }
+          { "label": "Dataset", "href": "" },
+          { "label": "Repo", "href": "https://github.com/MUsmankhanzada/Speaker_Recognition_Using_GMMs" }
           ]
-          
+
       }
       
     },
