@@ -32,25 +32,18 @@
       "topic": "",
       "media": {
         "type": "image",
-        "src": "assets/images/research/continual_archi.png"
+        "src": "assets/images/research/cifar.png"
       },
       "details": {
-        "title": "Continual Learning for Wireless Channel Prediction",
+        "title": "CIFAR-100 Transfer and Scratch Learning",
         "authors": [
-          { "name": "Muhammad Ahmed Mohsin",    "href": "https://ahmd-mohsin.github.io/", "strong": false },
-          { "name": "Muhammad Umer",       "href": "https://muhd-umer.github.io/", "strong": false },
-          { "name": "Ahsan Bilal",        "href": "", "strong": true  },
-          { "name": "Muhammad Ali Jamshed",   "href": "https://scholar.google.com/citations?user=at4MvYMAAAAJ&hl=en", "strong": false },
-          { "name": "John M. Cioff",   "href": "https://cioffi-group.stanford.edu/", "strong": false }
-
+          { "name": "Muhammad Usman Khanzada",        "href": "", "strong": true  }
         ],
-        "research_highlights": [
-          "Accepted"
-        ],
-        "venue": "ICML’25 Workshop",
+        
+        "venue": "Achieved 71.2% test accuracy through scratch training on CIFAR-100, surpassing the literature benchmark of 67%. Performed transfer learning on the same dataset using imagenet weights, architecture EfficientNetB0 which gave 86% test accuracy.",
         "links": [
-          { "label": "arXiv", "href": "https://arxiv.org/pdf/2501.17879" },
-          { "label": "website", "href": "https://cioffi-group-stanford.github.io/Websites/wireless_continual" }
+          { "label": "Dataset", "href": "https://www.cs.toronto.edu/~kriz/cifar.html" },
+          { "label": "Repo", "href": "https://github.com/MUsmankhanzada/Cifar100" }
           ]
       }
     },
@@ -59,7 +52,7 @@
       "topic": "",
       "media": {
         "type": "image",
-        "src": "assets/images/research/task_aware.png"
+        "src": "assets/images/research/cifar.png"
       },
       "details": {
         "title": "Task Aware Distributed Source Coding for Correlated Audio Signals Using Perceptual Loss",
