@@ -1,19 +1,30 @@
 [
-    {
-      "selected": false,
-      "topic": "rl_syn",
-      "media": {
-        "type": "image",
-        "src": "assets/images/research/FYP.jpeg"
-      },
-      "details": {
-        "title": "AI-Driven Smart Shopping Cart",
-        "authors": [
-          { "name": "Muhammad Usman Khanzada", "href": "", "strong": true }
-        ],
-        "links": [{ "label": "poster", "href": "assets/images/research/FYP.jpeg" }]
+{
+  "selected": false,
+  "topic": "rl_syn",
+  "media": {
+    "type": "image",
+    "src": "assets/images/research/FYP.jpeg"
+  },
+  "details": {
+    "title": "AI-Driven Smart Shopping Cart",
+    "authors": [
+      {
+        "name": "Muhammad Usman Khanzada",
+        "href": "",
+        "strong": true
       }
-    },
+    ],
+    "description": "Developed an Android application for barcode scanning, product display, real-time recommendations, and theft protection using weight sensors and ESP32, integrated with Machine Learning models. Aimed to simplify grocery shopping and deliver a seamless smart-cart experience.",
+    "links": [
+      {
+        "label": "poster",
+        "href": "assets/images/research/FYP.jpeg"
+      }
+    ]
+  }
+}
+,
     {
       "selected": true,
       "topic": "",
