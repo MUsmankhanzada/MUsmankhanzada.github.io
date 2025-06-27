@@ -55,20 +55,14 @@
         "src": "assets/images/research/cifar.png"
       },
       "details": {
-        "title": "Task Aware Distributed Source Coding for Correlated Audio Signals Using Perceptual Loss",
+        "title": "Binary Classification using Autoencoders",
         "authors": [
-          { "name": "Sagnik Bhattacharya", "href": "https://scholar.google.com/citations?user=xNb5T5IAAAAJ&hl=en", "strong": false },
-          { "name": "Muhammad Ahmed Mohsin",    "href": "https://ahmd-mohsin.github.io/", "strong": false },
-          { "name": "Ahsan Bilal",        "href": "", "strong": true  },
-          { "name": "John M. Cioff",   "href": "https://cioffi-group.stanford.edu/", "strong": false }
+          { "name": "Muhammad Usman Khanzada","href": "", "strong": true  }
         ],
-        "research_highlights": [
-          "Accepted"
-        ],
-        "venue": "AAAI’25 Workshop",
+        "venue": "This project uses a convolutional autoencoder combined with reconstruction error analysis and Kernel Density Estimation (KDE) to classify images of trolleys as empty (normal) or not empty (anomalous).",
         "links": [
-          { "label": "arXiv", "href": "https://arxiv.org/pdf/2501.17879" },
-          { "label": "website", "href": "https://cioffi-group-stanford.github.io/Websites/task_aware" }
+          { "label": "Dataset", "href": "https://drive.google.com/drive/folders/14qtb_QxzKBdz9-ScAGUs_Mcx6z_D08J2" },
+          { "label": "Repo", "href": "https://github.com/MUsmankhanzada/Binary-Classification-using-Autoecoders" }
           
         ]
       }
