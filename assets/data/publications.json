@@ -104,25 +104,17 @@
       "topic": "",
       "media": {
         "type": "image",
-        "src": "assets/images/research/hierarchical.png"
+        "src": "assets/images/research/yolov8.jpg"
       },
       "details": {
-        "title": "Hierarchical Deep Reinforcement Learning for Spectrum Resource Optimization in Integrated Terrestrial and Non-Terrestrial Networks",
+        "title": "Fruit Picking Robot Simulation",
         "authors": [
-          { "name": "Muhammad Ahmed Mohsin",    "href": "https://ahmd-mohsin.github.io/", "strong": false },
-          { "name": "Hassan Rizwan",     "href": "https://scholar.google.com/citations?user=yUCtuKQAAAAJ&hl=en", "strong": false },
-          { "name": "Muhammad Umer",       "href": "https://muhd-umer.github.io/", "strong": false },
-          { "name": "Sagnik Bhattacharya", "href": "https://scholar.google.com/citations?user=xNb5T5IAAAAJ&hl=en", "strong": false },
-          { "name": "Ahsan Bilal",      "href": null, "strong": true  },
-          { "name": "John M. Cioff",   "href": "https://cioffi-group.stanford.edu/", "strong": false }
+          { "name": "Muhammad Usman Khanzada","href": null, "strong": true  }
         ],
-        "venue": "AAAI’25 Workshop",
-        "research_highlights": [
-          "Accepted"
-        ],
+        "venue": "Developed simulation of a fruit-picking robot using Webots, integrating a camera to capture images processed with Python and YOLOv8 for fruit location identification.Implemented precise fruit-picking and placement into a basket by centering the fruit on the manipulator.",
         "links": [
-          { "label": "arXiv", "href": "https://arxiv.org/pdf/2501.09212" }, 
-          { "label": "website", "href": "https://cioffi-group-stanford.github.io/Websites/hierarchical_wireless.html" }
+          { "label": "Dataset", "href": "" }, 
+          { "label": "Repo", "href": "https://github.com/MUsmankhanzada/-Fruit-Picking-Robot-Simulation" }
           ]
       }
     },
