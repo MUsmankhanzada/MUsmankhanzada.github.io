@@ -112,24 +112,18 @@
       "topic": "",
       "media": {
         "type": "image",
-        "src": "assets/images/research/meta_rl.png"
+        "src": "assets/images/research/circuit.jpg"
       },
       "details": {
-        "title": "Meta-Thinking in LLMs via Multi-Agent Reinforcement Learning: A Survey",
+        "title": "Arduino Based Health Monitoring System",
         "authors": [
-          { "name": "Ahsan Bilal",      "href": "", "strong": true  },
-          { "name": "Muhammad Ahmed Mohsin",    "href": "https://ahmd-mohsin.github.io/", "strong": false },
-          { "name": "Muhammad Umer",       "href": "https://muhd-umer.github.io/", "strong": false },
-          { "name": "Muhammad Awais Khan Bangash",   "href": "", "strong": false },
-          { "name": "Muhammad Ali Jamshed",   "href": "https://scholar.google.com/citations?user=at4MvYMAAAAJ&hl=en", "strong": false }
+          { "name": "Muhammad Usman khanzada", "href": "", "strong": true  }
         ],
-        "venue": "IEEE TAI",
-        "research_highlights": [
-          "SUBMITTED"
-        ],
+        "venue": "This project is a real-time IoT-based health monitoring system using an Arduino, multiple biomedical sensors (ECG, temperature, and pulse), and the ESP8266 Wi-Fi module. It continuously measures patient vitals, sends the data to an IoT platform, and displays the current readings on an LCD screen.",
+
         "links": [
-          { "label": "arXiv", "href": "https://arxiv.org/pdf/2504.14520" }, 
-          { "label": "website", "href": "https://cioffi-group-stanford.github.io/Websites/meta_thinking_llms.html" }
+          { "label": "Dataset", "href": "" }, 
+          { "label": "Repo", "href": "https://github.com/MUsmankhanzada/ArduinoHealthMonitor" }
           ]
       }
     },
