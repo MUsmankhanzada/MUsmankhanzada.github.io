@@ -132,24 +132,16 @@
       "topic": "",
       "media": {
         "type": "image",
-        "src": "assets/images/research/ieee_access.png"
+        "src": "assets/images/research/circuit.jpg"
       },
       "details": {
-        "title": "On Shadow Removal With Boosted Attention in a Vision Transformer",
+        "title": "TinyML on AVR",
         "authors": [
-          { "name": "Ahsan Bilal",      "href": "", "strong": true  },
-          { "name": "Ahmad Salman",     "href": "https://seecs.nust.edu.pk/faculty/ahmad-salman/", "strong": false },
-          { "name": "Syed Sarib Naveed",   "href": "https://orcid.org/0009-0004-7172-3596", "strong": false },
-          { "name": "Muhammad Usman Safder",   "href": "", "strong": false },
-          { "name": "Khawar Khurshid",   "href": "https://namal.edu.pk/faculty/profile/150/dr-khawar-khurshid", "strong": false },
-          { "name": "Muhammad Usman Ilyas",    "href": "https://www.birmingham.ac.uk/staff/profiles/dubai/ilyas-muhammad", "strong": false }
+          { "name": "Muhammad Usman Khanzada","href": "", "strong": true  }
         ],
-        "venue": "IEEE Access",
-        "research_highlights": [
-          "SUBMITTED"
-        ],
+        "venue": "A system that takes room temperature as input and calibrates the sensor using Machine Learning model. Displays the temperature on both PC and seven-segment display.",
         "links": [
-          { "label": "arXiv", "href": "https://arxiv.org/abs/2405.10315" }]
+          { "label": "Repo", "href": "https://github.com/MUsmankhanzada/-TinyML-on-AVR" }]
       }
     },
     {
