@@ -52,7 +52,7 @@
       "topic": "",
       "media": {
         "type": "image",
-        "src": "assets/images/research/cifar.png"
+        "src": "assets/images/research/autoencoders.png"
       },
       "details": {
         "title": "Binary Classification using Autoencoders",
