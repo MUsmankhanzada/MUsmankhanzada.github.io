@@ -132,7 +132,7 @@
       "topic": "",
       "media": {
         "type": "image",
-        "src": "assets/images/research/circuit.jpg"
+        "src": "assets/images/research/tinyml.png"
       },
       "details": {
         "title": "TinyML on AVR",
@@ -149,23 +149,18 @@
       "topic": "",
       "media": {
         "type": "image",
-        "src": "assets/images/research/person_iden.png",
+        "src": "assets/images/research/socket.png",
         "format": ""
       },
       "details": {
-        "title": "Person Identification using Gait with Fused Graph and 3D-Convolutional Architectures",
+        "title": "Client-Server Communcation Chat Application Using Python",
         "authors": [
-          { "name": "Ahsan Bilal",      "href": "", "strong": true  },
-          { "name": "Ali Subhan",     "href": "", "strong": false },
-          { "name": "Hamza Ali",        "href": "", "strong": false },
-          { "name": "Ahmad Salman",     "href": "https://seecs.nust.edu.pk/faculty/ahmad-salman/", "strong": false }
+          { "name": "Muhammad Usman Khanzada",      "href": "", "strong": true  }
         ],
-        "venue": "Cell–Press Heliyon",
-        "research_highlights": [
-          "SUBMITTED"
-        ],
+        "venue": "A chat application was created using Python socket programming, a client-side GUI, and a server-side database to store the information about all its clients.",
+
         "links": [
-          { "label": "arXiv", "href": "https://arxiv.org/abs/2405.10315" }]
+          { "label": "Repo", "href": "" }]
       }
     }
   ]
