@@ -1,24 +1,27 @@
 [
-    {
-      "selected": false,
-      "topic": "rl_syn",
-      "media": {
-        "type": "image",
-        "src": "assets/images/research/dsaa_runner_up_award.jpeg"
-      },
-      "details": {
-        "title": "Abstract – LLM for Explainable AI",
-        "authors": [
-          { "name": "Ahsan Bilal", "href": "", "strong": true },
-          { "name": "Bieyu Lin",       "href": "https://beiyulincs.github.io/", "strong": false }
-        ],
-        "venue": "IEEE DSAA’24",
-        "research_highlights": [
-          "Poster Accepted"
-        ],
-        "links": [{ "label": "presentation", "href": "assets/images/research/dsaa_runner_up_award.jpeg" }]
-      }
-    },
+{
+  "selected": false,
+  "topic": "ai_smart_cart",
+  "media": {
+    "type": "image",
+    "src": "assets/images/research/FYP.jpeg"
+  },
+  "details": {
+    "title": "AI-Driven Smart Shopping Cart",
+    "authors": [
+      { "name": "Ahsan Bilal", "href": "", "strong": true },
+    ],
+    "venue": "IEEE DSAA 2024",
+    "research_highlights": [
+      "Poster Accepted"
+    ],
+    "links": [
+      { "label": "Project Demo", "href": "assets/images/research/FYP.jpeg" }
+    ],
+    "description": "Developed an Android application for barcode scanning, product display, real-time recommendations, and theft protection using weight sensors and ESP32, integrated with Machine Learning models. Aimed to simplify grocery shopping and deliver a seamless smart-cart experience."
+  }
+}
+,
     {
       "selected": true,
       "topic": "",
