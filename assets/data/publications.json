@@ -1,27 +1,19 @@
 [
-{
-  "selected": false,
-  "topic": "ai_smart_cart",
-  "media": {
-    "type": "image",
-    "src": "assets/images/research/FYP.jpeg"
-  },
-  "details": {
-    "title": "AI-Driven Smart Shopping Cart",
-    "authors": [
-      { "name": "Ahsan Bilal", "href": "", "strong": true },
-    ],
-    "venue": "IEEE DSAA 2024",
-    "research_highlights": [
-      "Poster Accepted"
-    ],
-    "links": [
-      { "label": "Project Demo", "href": "assets/images/research/FYP.jpeg" }
-    ],
-    "description": "Developed an Android application for barcode scanning, product display, real-time recommendations, and theft protection using weight sensors and ESP32, integrated with Machine Learning models. Aimed to simplify grocery shopping and deliver a seamless smart-cart experience."
-  }
-}
-,
+    {
+      "selected": false,
+      "topic": "rl_syn",
+      "media": {
+        "type": "image",
+        "src": "assets/images/research/.jpeg"
+      },
+      "details": {
+        "title": "AI-Driven Smart Shopping Cart",
+        "authors": [
+          { "name": "Muhammad Usman Khanzada", "href": "", "strong": true }
+        ],
+        "links": [{ "label": "poster", "href": "assets/images/research/FYP.jpeg" }]
+      }
+    },
     {
       "selected": true,
       "topic": "",
