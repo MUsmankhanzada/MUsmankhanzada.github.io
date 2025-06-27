@@ -17,7 +17,7 @@
       { "name": "Yusra Ahmed", "href": "https://www.linkedin.com/in/yusraahmed02/", "strong": false }
 
     ],
-    "description": "Developed an Android application for barcode scanning, product display, real-time recommendations, and theft protection using weight sensors and ESP32, integrated with Machine Learning models. Aimed to simplify grocery shopping and deliver a seamless smart-cart experience.",
+    "venue":"Developed an Android application for barcode scanning, product display, real-time recommendations, and theft protection using weight sensors and ESP32, integrated with Machine Learning models. Aimed to simplify grocery shopping and deliver a seamless smart-cart experience.",
     "links": [
       {
         "label": "poster",
