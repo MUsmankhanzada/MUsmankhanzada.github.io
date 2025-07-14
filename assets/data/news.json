@@ -1,48 +1,17 @@
 [
   {
-    "date": "June 2025",
-    "html": "1 papers for Continual Learning for Wireless Channel Prediction accepted @ <a href=\"https://icml.cc/\" target=\"_blank\">@ICML 2025 Workshop</a> taking place in Vancouver."
+    "date": "From Dec 2023 to Feb 2024",
+    "html": "<a href=\"https://ont.seecs.edu.pk/\" target=\"_blank\">Machine Learning Intern at Optical Network and Technologies Lab(SEECS)</a> : Performed data labeling, data preprocessing, data annotation, model training, and performance evaluation."
   },
   {
-    "date": "June 2025",
-    "html": "1 papers for RAG Optimized Wireless Environment Perception accepted and awarded best workshop paper  <a href=\"https://icc2025.ieee-icc.org/\" target=\"_blank\">@ICC 2025 Workshop</a> taking place in Montreal."
-  },
-  {
-    "date": "May 2025",
-    "html": "Delivered a presentation titled “AI in Healthcare” at <a href=\"https://www.normanregional.com/\" target=\"_blank\">Norman Regional Hospital</a> under the supervision of <a href=\"https://www.normanregional.com/provider-directory/lubna-mirza-md/\" target=\"_blank\" style=\"white-space:nowrap\">Dr. Lubna Mirza</a>."
-  },
-  {
-    "date": "May 2025",
-    "html": "Recipient of the <a href=\"https://www.ou.edu/coe\" target=\"_blank\">College of Engineering Graduate Fellowship 2025</a>."
-  },
-  
-  {
-    "date": "Jan 2025",
-    "html": "2 papers for Hierarchichal Deep RL and Joint Source Compression accepted @ <a href=\"https://aaai.org/conference/aaai/aaai-25/\" target=\"_blank\">@AAAI 2025 Workshop</a> taking place in Philadelpia."
+    "date": "From Jun 202 to Sep 2024",
+    "html": "<a href=\"https://www.rad-wi.com/\" target=\"_blank\">Android Developer Intern at RADWI, National Science & Technology Park</a> : Gained proficiency in Kotlin, building a responsive Android app from scratch in Android Studio, integrating APIs, and optimizing performance.Implemented machine learning models within the app."
   },
 
   {
-    "date": "Oct 2024",
-    "html": "Runner-up Award for <a href=\"assets/images/research/dsaa_runner_up_award.jpeg\" target=\"_blank\">Best Student Presentation</a> at the <a href=\"https://dsaa2024.dsaa.co/student-forum.html\" target=\"_blank\">IEEE DSAA'24 Student Forum</a>."
-  },
-  {
-    "date": "Oct 2024",
-    "html": "Awarded the <a href=\"https://dsaa2024.dsaa.co/student-forum.html\" target=\"_blank\">Student Travel Grant</a> for IEEE DSAA 2024."
-  },
-  {
-    "date": "May 2024",
-    "html": "Final Year Project received the <a href=\"https://www.linkedin.com/posts/ahsanbilal7_fyp-deeplearning-openhouse-activity-7193556802830004225-O2hj?utm_source=share&utm_medium=member_desktop\" target=\"_blank\">1st Best Adjudged Industrial Project Award</a> at the NUST Open House 2024."
-  },
-  {
-    "date": "March 2024",
-    "html": "PhD Acceptence from University of Oklahoma with Graduate Fellowship."
-  },
-  {
-    "date": "Feb 2024",
-    "html": "Winner of the <a href=\"https://www.hec.gov.pk/english/scholarships/Pages/PrimeMinistersLaptopScheme.aspx\" target=\"_blank\">Prime Minister Laptop Scheme</a>."
-  },
-  {
-    "date": "Feb 2023",
-    "html": "Selected as an Undergraduate Research Intern for the First Cohort of <a href=\"https://www.mbzuai.ac.ae/\" target=\"_blank\">UGRIP by MBZUAI</a>."
+    "date": "From Jun 2023 to Dec 2024",
+    "html": "<a href=\"https://optimal.seecs.nust.edu.pk/\" target=\"_blank\">Machine Learning Intern at Optical Network and Technologies Lab(SEECS)</a> : Worked on my final year project by creating and processing custom image datasets, including pipelining, labeling, and cleaning for efficient data handling. Designed and deployed computer vision algorithms and deep learning models (CNNs) for object detection. Also designed computer vision algorithms for video enhancement."
   }
+
+  
 ]

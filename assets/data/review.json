@@ -1,10 +1,46 @@
 [
-  {
-    "date": "Conferences ",
-    "html": ["PAKDD"]
-  },
-  {
-    "date": "Journal ",
-    "html": ["IEEE: Wireless Communications Magazine" , " Springer Nature: Multimedia Tools and Applications"]
-  }
-]
+      {
+        "selected": true,
+        "topic": "",
+        "media": {
+          "type": "image",
+          "src": "assets/images/research/langchain.jpg"
+        },
+        "details": {
+          "title": "MCQ Generator",
+          "authors": [
+            { "name": "Muhammad Usman Khanzada","href": "", "strong": true  }
+          ],
+          "venue": "This project is an AI-powered MCQ generator that leverages Groq's Llama3-8b model and Langchain's chains to intelligently create multiple-choice questions across various subjects such as computer science, math, and history, with support for easy, medium, and hard difficulty levels. Users can customize the number of questions, subject area, and export format (JSON, CSV, TXT). Hosted on a Streamlit app, the platform enables users to review the generated questions, answer them in real-time, and receive instant scoring along with detailed explanations for each correct answer",
+          "links": [
+            { "label": "Repo", "href": "https://github.com/MUsmankhanzada/MCQ_Generator" }
+            
+          ]
+        }
+      },
+
+      {
+        "selected": true,
+        "topic": "",
+        "media": {
+          "type": "image",
+          "src": "assets/images/research/chatbot.png"
+        },
+        "details": {
+          "title": "Medical Chatbot",
+          "authors": [
+            { "name": "Muhammad Usman Khanzada","href": "", "strong": true  }
+          ],
+          "venue": "This project implements a medical chatbot that leverages Retrieval-Augmented Generation (RAG) to provide accurate and context-aware answers to user queries. The system uses a quantized Llama model for efficient inference on resource-constrained hardware, and integrates with Pinecone for vector storage and retrieval.",
+          "links": [
+            { "label": "Repo", "href": "https://github.com/MUsmankhanzada/Medical-Chat-Bot-using-Llama" }
+            
+          ]
+        }
+      }
+
+
+
+      
+    ]
+  
